@@ -7,7 +7,11 @@ Custom Drawio library to create intelligent vehicule scenarios.
 ## Usage
 
 Import the custom library into Drawio.
-See <https://www.drawio.com/blog/custom-libraries>.
+See <https://www.drawio.com/blog/custom-libraries>. 
+
+[Or use it directly online](https://app.diagrams.net/?clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FChthi%2Fdrawio-iv-scenario%2Frefs%2Fheads%2Fmain%2FIV%2520Scenario.xml
+)
+
 
 ## Examples
 
